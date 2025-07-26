@@ -1,1 +1,1 @@
-# zombieGameJS
+# zombieGame
